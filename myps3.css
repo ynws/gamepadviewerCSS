@@ -1,0 +1,27 @@
+.controller.ps.white {
+    background-image: url(base.png);
+}
+
+.ps.white .trigger {
+    background-image: url(triggers.png);
+}
+
+.ps.white .bumper {
+    background-image: url(bumpers.png);
+}
+
+.ps.white .back, .ps.white .start {
+    background-image: url(menus.png);
+}
+
+.ps.white .button {
+    background-image: url(face-buttons.png);
+}
+
+.ps.white .stick {
+    background-image: url(thumbs.png);
+}
+
+.ps.white .face {
+    background-image: url(dpad.png);
+}
